@@ -2,7 +2,7 @@
 # Valorant NA Challengers 2 predictions
 
 In this project I predicted the outcome of future games in VALORANT Champions Tour 2022: 
-North America Challengers 2 - Group Stage.
+North America Challengers 2 - Group Stage. Had a final prediction rate of 92%
 
 # Project steps 
 
